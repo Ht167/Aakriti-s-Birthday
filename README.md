@@ -17,5 +17,6 @@ This is a special **interactive birthday site** built for Aakriti's birthday on 
 3. Unlock the card to reveal the cake, hearts, and love notes.  
 4. Click the cake candles to blow them out and trigger animations.  
 
-
+## Link to site 
+[Open Birthday Site](https://ht167.github.io/Aakriti-s-Birthday/)
 *Made with ❤️ by Himanshul*
